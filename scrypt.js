@@ -25,7 +25,7 @@ function startScript() {
             let repost = "Button_button__1yaWD Button_is_primary__1b4PX JoinDrawModal_joinStepBtn__DAjP0"
             let following = "FollowButton_follwing__2itpB"
             let reposted = "Button_button__1yaWD Button_is_gray__3nV7y Button_is_disabled__18BCT JoinDrawModal_joinStepBtn__DAjP0 JoinDrawModal_isSuccess__1EVms" // Два в массиве если подписан
-            let successTitle = "JoinDrawModal_drawSuccessTitle__2bnFS" // Проверка на саксес
+            let successTitle = "JoinDrawModal_drawSuccessTitle__2bnFS" // Проверка 
             let drawToken = "JoinDrawModal_tokenDesc__1PIxe" // Номер токена
             let joinTheLuckyDraw = "Button_button__1yaWD Button_is_primary__1b4PX JoinDrawModal_submitBtn__RJXvp" // Join The Lucky Draw
             let closeButton = "CommonModal_closeModalButton__1swng" // Кнопка закрытия
