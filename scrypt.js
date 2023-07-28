@@ -136,7 +136,7 @@ function startScript() {
             }
 
             async function main() {
-                button.textContent = "Running DeBank Enjoyer 🫡";
+                button.textContent = "Running DeBank Enjoyer 💰";
                 button.style.backgroundColor = "#ef7c39";
                 button.style.padding = "5px 2px";
                 button.style.top = "120px";
@@ -177,7 +177,7 @@ function startScript() {
         button.classList.add("btnbtn");
         button.textContent = "Run DeBank Enjoyer 🫡";
         button.style.position = "fixed";
-        button.style.top = "180px";
+        button.style.top = "280px";
         button.style.left = "12px";
         button.style.backgroundColor = "#4CAF50";
         button.style.color = "white";
