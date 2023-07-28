@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.5.7
 // @description  DeBank automatic raffles!
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=debank.com
 // ==/UserScript==
 
 function startScript() {
